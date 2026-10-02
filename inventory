@@ -1,2 +1,2 @@
 [cs320]
-10.2.37.108
+10.2.37.108 ansible_user=egregg
